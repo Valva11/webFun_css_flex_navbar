@@ -1,0 +1,7 @@
+div {
+    background-color: lightblue;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
